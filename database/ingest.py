@@ -10,7 +10,8 @@ from .models import Base, Item
 
 log = get_logger(__name__)
 
-engine = create_engine(settings.POSTGRES_DSN, echo=False, future=True)
+# SQLAlchemy expects a string DSN
+engine = create_engine(str(settings.POSTGRES_DSN), echo=False, future=True)
 Session = sessionmaker(bind=engine)
 
 Base.metadata.create_all(engine)
