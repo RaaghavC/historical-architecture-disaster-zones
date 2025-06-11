@@ -7,10 +7,11 @@ reconstruction → public API + viewer.
 ## Quick Start (macOS / Linux)
 
 ```bash
-git clone https://github.com/your-org/historical-architecture-disaster-zones.git
+git clone https://github.com/RaaghavC/historical-architecture-disaster-zones.git
 cd historical-architecture-disaster-zones
 cp .env.example .env                # add API keys
-docker compose up -d postgres       # optional helper script
+# spin up the bundled PostGIS instance
+docker compose up -d postgres
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
