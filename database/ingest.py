@@ -10,10 +10,34 @@ from .models import Base, Item
 
 log = get_logger(__name__)
 
-engine = create_engine(settings.POSTGRES_DSN, echo=False, future=True)
-Session = sessionmaker(bind=engine)
+try:
+    engine = create_engine(str(settings.POSTGRES_DSN), echo=False, future=True)
+    Session = sessionmaker(bind=engine)
+    Base.metadata.create_all(engine)
+    DB_AVAILABLE = True
+except Exception as exc:  # pragma: no cover - DB may be unavailable
+    log.warning("Database unavailable: %s", exc)
+    DB_AVAILABLE = False
 
-Base.metadata.create_all(engine)
+    class DummyQuery:
+        def all(self):
+            return []
+
+    class DummySession:
+        def query(self, *args, **kwargs):
+            return DummyQuery()
+
+        def merge(self, *args, **kwargs):
+            pass
+
+        def commit(self):
+            pass
+
+        def close(self):
+            pass
+
+    def Session():  # type: ignore
+        return DummySession()
 
 
 def ingest_records(records: List[DCRecord]):

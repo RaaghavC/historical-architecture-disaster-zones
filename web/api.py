@@ -10,7 +10,8 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from sqlalchemy.orm import Session
 from shapely.geometry import mapping
-from database.models import Session as DBSession, Item
+from database.ingest import Session as DBSession
+from database.models import Item
 from utils.iiif import make_iiif_url
 from utils.metadata import DCRecord
 from config import settings

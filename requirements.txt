@@ -7,6 +7,7 @@ pydantic>=2.6
 requests>=2.32
 typer>=0.12
 Shapely>=2.0
-diffusers==0.27.2
-torch>=2.3.0
-colormath>=3.3
+# Optional heavy dependencies only required for AI reconstruction
+# diffusers==0.27.2
+# torch>=2.3.0
+colormath>=3.0
