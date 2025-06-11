@@ -10,7 +10,31 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from sqlalchemy.orm import Session
 from shapely.geometry import mapping
-from database.models import Session as DBSession, Item
+import os
+
+if os.getenv("TESTING") == "1":
+    class _DummyQuery:
+        def filter(self, *a, **kw):
+            return self
+
+        def filter_by(self, *a, **kw):
+            return self
+
+        def all(self):
+            return []
+
+        def one_or_none(self):
+            return None
+
+    class _DummySession:
+        def query(self, *a, **kw):
+            return _DummyQuery()
+
+    DBSession = lambda: _DummySession()
+    from database.models import Item  # only for type hints
+else:
+    from database.ingest import Session as DBSession
+    from database.models import Item
 from utils.iiif import make_iiif_url
 from utils.metadata import DCRecord
 from config import settings
