@@ -7,7 +7,7 @@ reconstruction → public API + viewer.
 ## Quick Start (macOS / Linux)
 
 ```bash
-git clone https://github.com/your-org/historical-architecture-disaster-zones.git
+git clone https://github.com/RaaghavC/historical-architecture-disaster-zones.git
 cd historical-architecture-disaster-zones
 cp .env.example .env                # add API keys
 # spin up the bundled PostGIS instance
