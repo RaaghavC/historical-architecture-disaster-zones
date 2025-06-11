@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Antakya Digital Archive</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+<div id="map" style="width:100%; height:600px;"></div>
+<script>
+fetch('/geojson').then(r => r.json()).then(data => {
+    const map = L.map('map').setView([36.2, 36.1], 12);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19
+    }).addTo(map);
+    L.geoJSON(data).addTo(map);
+});
+</script>
+</body>
+</html>
