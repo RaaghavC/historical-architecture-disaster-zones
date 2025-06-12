@@ -1,0 +1,13 @@
+=== HARVEST SUMMARY REPORT ===
+
+Total Records: 26
+Harvest Date: 2025-06-11T17:59:49.194164
+
+Records by Archive:
+  - loc.gov: 26
+
+Records by Data Type:
+  - image: 26
+
+Geographic Coverage:
+  - : 26

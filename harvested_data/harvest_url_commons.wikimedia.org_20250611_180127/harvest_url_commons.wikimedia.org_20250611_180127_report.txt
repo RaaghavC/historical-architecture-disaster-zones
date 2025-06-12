@@ -1,0 +1,13 @@
+=== HARVEST SUMMARY REPORT ===
+
+Total Records: 29
+Harvest Date: 2025-06-11T18:01:27.514996
+
+Records by Archive:
+  - commons.wikimedia.org: 29
+
+Records by Data Type:
+  - image: 29
+
+Geographic Coverage:
+  - : 29
