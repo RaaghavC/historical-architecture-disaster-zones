@@ -13,6 +13,7 @@ from openpyxl import Workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
 
 from .universal_scraper import UniversalDataRecord, DataType
+from .deduplication import DeduplicationEngine
 
 logger = logging.getLogger(__name__)
 
@@ -20,8 +21,16 @@ logger = logging.getLogger(__name__)
 class UniversalDataOrganizer:
     """Organize and export harvested data in multiple formats."""
     
-    def __init__(self, records: List[UniversalDataRecord]):
-        self.records = records
+    def __init__(self, records: List[UniversalDataRecord], deduplicate: bool = True):
+        # Deduplicate records if requested
+        if deduplicate and records:
+            logger.info(f"Deduplicating {len(records)} records...")
+            dedup_engine = DeduplicationEngine()
+            self.records = dedup_engine.deduplicate(records)
+            logger.info(f"After deduplication: {len(self.records)} unique records")
+        else:
+            self.records = records
+        
         self.df = self._create_dataframe()
         
     def _create_dataframe(self) -> pd.DataFrame:
