@@ -300,3 +300,94 @@ CHURCH_TEMPLATE = DamageAssessmentForm(
         ElementAssessment(element=StructuralElement.DECORATIVE, damage_category=DamageCategory.NO_DAMAGE, description="Frescoes, mosaics, iconostasis")
     ]
 )
+
+
+class DamageAssessmentSystem:
+    """
+    System for managing field damage assessments
+    Handles creation, storage, and retrieval of assessments
+    """
+    def __init__(self, storage_dir: str = "field_assessments"):
+        self.storage_dir = Path(storage_dir)
+        self.storage_dir.mkdir(exist_ok=True)
+        self.assessments = {}
+    
+    def create_assessment(self, site_name: str, location: str, 
+                         assessor_name: str, damage_category: DamageCategory,
+                         description: str) -> DamageAssessmentForm:
+        """Create a new damage assessment"""
+        assessment = DamageAssessmentForm(
+            site_name=site_name,
+            address=location,
+            overall_damage=damage_category,
+            damage_description=description,
+            assessment_date=datetime.now(),
+            assessor_name=assessor_name
+        )
+        
+        # Generate unique ID
+        assessment.assessment_id = f"ANT_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+        assessment.site_id = assessment.assessment_id
+        
+        # Store in memory
+        self.assessments[assessment.assessment_id] = assessment
+        
+        return assessment
+    
+    def add_element_damage(self, assessment_id: str, element_name: str, 
+                          damage_category: DamageCategory):
+        """Add damage information for a specific architectural element"""
+        if assessment_id not in self.assessments:
+            raise ValueError(f"Assessment {assessment_id} not found")
+        
+        assessment = self.assessments[assessment_id]
+        
+        # Convert element name to enum if possible
+        try:
+            element = StructuralElement[element_name.upper()]
+        except:
+            # Try architectural elements
+            try:
+                element = ArchitecturalElement[element_name.upper()]
+            except:
+                element = StructuralElement.OTHER
+        
+        element_assessment = ElementAssessment(
+            element=element,
+            damage_category=damage_category,
+            description=f"{element_name}: {damage_category.value}"
+        )
+        
+        assessment.element_assessments.append(element_assessment)
+    
+    def save_assessment(self, assessment: DamageAssessmentForm) -> Path:
+        """Save assessment to JSON file"""
+        return assessment.save(self.storage_dir)
+    
+    def get_site_summary(self, site_name: str) -> dict:
+        """Get summary of all assessments for a site"""
+        site_assessments = [
+            a for a in self.assessments.values() 
+            if a.site_name == site_name
+        ]
+        
+        if not site_assessments:
+            return {
+                'site_name': site_name,
+                'total_assessments': 0,
+                'overall_damage': 'No assessments'
+            }
+        
+        # Get most severe damage
+        damage_levels = [a.overall_damage for a in site_assessments]
+        most_severe = max(damage_levels, key=lambda x: list(DamageCategory).index(x))
+        
+        return {
+            'site_name': site_name,
+            'total_assessments': len(site_assessments),
+            'overall_damage': most_severe.value,
+            'latest_assessment': max(
+                site_assessments, 
+                key=lambda x: x.assessment_date
+            ).assessment_id
+        }

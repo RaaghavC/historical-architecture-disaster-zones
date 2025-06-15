@@ -1,7 +1,7 @@
 """
 Universal scraper base classes and data models for archive harvesting.
 """
-from abc import ABC, abstractmethod
+from abc import ABC
 from typing import Dict, List, Optional, Any, Union, Iterable
 from enum import Enum
 import hashlib
@@ -144,10 +144,10 @@ class UniversalArchiveScraper(ABC):
         
         return session
     
-    @abstractmethod
     def _register_extractors(self) -> Dict[str, Any]:
         """Register data extractors for different content types."""
-        pass
+        # Default implementation - subclasses can override
+        return {}
     
     def scrape(self, url: str = None, search_terms: List[str] = None) -> List[UniversalDataRecord]:
         """Main scraping method - can scrape single URL or search."""
@@ -164,10 +164,11 @@ class UniversalArchiveScraper(ABC):
         records = self._extract_records(content, url)
         return records
     
-    @abstractmethod
     def _scrape_search(self, search_terms: List[str]) -> List[UniversalDataRecord]:
         """Search the archive with given terms."""
-        pass
+        # Default implementation - subclasses should override
+        logger.warning(f"{self.__class__.__name__} doesn't implement search functionality")
+        return []
     
     def _scrape_full_archive(self) -> List[UniversalDataRecord]:
         """Scrape the entire archive (if supported)."""

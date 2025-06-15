@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Architecture Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .header {
+            background: #2c3e50;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .feature-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        
+        .feature-card h3 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .feature-card .icon {
+            font-size: 1.5rem;
+        }
+        
+        .feature-card .status {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-bottom: 1rem;
+        }
+        
+        .status.operational {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .status.ready {
+            background: #cce5ff;
+            color: #004085;
+        }
+        
+        .status.testing {
+            background: #fff3cd;
+            color: #856404;
+        }
+        
+        .feature-details {
+            display: none;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #e9ecef;
+        }
+        
+        .feature-details.active {
+            display: block;
+        }
+        
+        .feature-list {
+            list-style: none;
+            margin: 0.5rem 0;
+        }
+        
+        .feature-list li {
+            padding: 0.25rem 0;
+            color: #666;
+        }
+        
+        .search-section {
+            background: white;
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .search-form {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .search-input {
+            flex: 1;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+        
+        .btn {
+            padding: 0.75rem 1.5rem;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .btn:hover {
+            background: #2980b9;
+        }
+        
+        .btn.secondary {
+            background: #95a5a6;
+        }
+        
+        .btn.secondary:hover {
+            background: #7f8c8d;
+        }
+        
+        .search-results {
+            margin-top: 1rem;
+        }
+        
+        .result-item {
+            padding: 1rem;
+            border-bottom: 1px solid #e9ecef;
+        }
+        
+        .result-item:last-child {
+            border-bottom: none;
+        }
+        
+        .result-title {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 0.25rem;
+        }
+        
+        .result-meta {
+            font-size: 0.9rem;
+            color: #666;
+        }
+        
+        .archive-filters {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .archive-checkbox {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+            padding: 0.5rem 1rem;
+            background: #f8f9fa;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        
+        .archive-checkbox input {
+            cursor: pointer;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+        }
+        
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 1rem;
+            border-radius: 4px;
+            margin: 1rem 0;
+        }
+        
+        .success {
+            background: #d4edda;
+            color: #155724;
+            padding: 1rem;
+            border-radius: 4px;
+            margin: 1rem 0;
+        }
+        
+        .sample-code {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 0.9rem;
+            overflow-x: auto;
+            margin: 0.5rem 0;
+        }
+        
+        .test-all-btn {
+            display: block;
+            width: 100%;
+            padding: 1rem;
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏛️ Historical Architecture in Disaster Zones</h1>
+        <p>Comprehensive Testing Dashboard - Urgent Fixes Branch</p>
+    </div>
+    
+    <div class="container">
+        <button class="btn test-all-btn" onclick="testAllFeatures()">
+            🚀 Test All Features
+        </button>
+        
+        <div class="search-section">
+            <h2>🔍 Archive Search</h2>
+            <p style="margin-bottom: 1rem;">Search across Ottoman archives for historical photographs</p>
+            
+            <div class="archive-filters">
+                <label class="archive-checkbox">
+                    <input type="checkbox" name="archive" value="salt" checked>
+                    SALT Research
+                </label>
+                <label class="archive-checkbox">
+                    <input type="checkbox" name="archive" value="nit" checked>
+                    NIT Kiel Archive
+                </label>
+                <label class="archive-checkbox">
+                    <input type="checkbox" name="archive" value="akkasah">
+                    Akkasah
+                </label>
+                <label class="archive-checkbox">
+                    <input type="checkbox" name="archive" value="archnet">
+                    ArchNet
+                </label>
+                <label class="archive-checkbox">
+                    <input type="checkbox" name="archive" value="manar">
+                    Manar al-Athar
+                </label>
+            </div>
+            
+            <div class="search-form">
+                <input type="text" class="search-input" id="searchInput" placeholder="Enter search terms (e.g., Antakya, Habib-i Neccar)">
+                <button class="btn" onclick="searchArchives()">Search</button>
+            </div>
+            
+            <div id="searchResults" class="search-results"></div>
+        </div>
+        
+        <div class="feature-grid">
+            <div class="feature-card" onclick="testFeature('field-documentation')">
+                <h3><span class="icon">📋</span> Field Documentation</h3>
+                <span class="status operational">Operational</span>
+                <p>UNESCO-compliant damage assessment system for field teams</p>
+                <div id="field-documentation-details" class="feature-details"></div>
+            </div>
+            
+            <div class="feature-card" onclick="testFeature('backup-system')">
+                <h3><span class="icon">💾</span> Backup System</h3>
+                <span class="status ready">Ready</span>
+                <p>Automated incremental backups to multiple destinations</p>
+                <div id="backup-system-details" class="feature-details"></div>
+            </div>
+            
+            <div class="feature-card" onclick="testFeature('deduplication')">
+                <h3><span class="icon">🔄</span> Deduplication Engine</h3>
+                <span class="status operational">Active</span>
+                <p>Smart duplicate detection across archives</p>
+                <div id="deduplication-details" class="feature-details"></div>
+            </div>
+            
+            <div class="feature-card" onclick="testFeature('archive-search')">
+                <h3><span class="icon">🗄️</span> Ottoman Archives</h3>
+                <span class="status operational">Connected</span>
+                <p>Integration with SALT, NIT, and Akkasah archives</p>
+                <div id="archive-search-details" class="feature-details"></div>
+            </div>
+            
+            <div class="feature-card" onclick="testFeature('scholarly-tools')">
+                <h3><span class="icon">🎓</span> Scholarly Tools</h3>
+                <span class="status operational">Available</span>
+                <p>Academic annotation and citation systems</p>
+                <div id="scholarly-tools-details" class="feature-details"></div>
+            </div>
+            
+            <div class="feature-card" onclick="testFeature('comparison')">
+                <h3><span class="icon">🔍</span> Before/After Analysis</h3>
+                <span class="status ready">Ready</span>
+                <p>AI-powered damage comparison tool</p>
+                <div id="comparison-details" class="feature-details"></div>
+            </div>
+            
+            <div class="feature-card" onclick="testFeature('gallery')">
+                <h3><span class="icon">🖼️</span> Public Gallery</h3>
+                <span class="status ready">Generator Ready</span>
+                <p>Interactive web gallery for damage documentation</p>
+                <div id="gallery-details" class="feature-details"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let allTestResults = {};
+        
+        async function testFeature(feature) {
+            const detailsDiv = document.getElementById(`${feature}-details`);
+            
+            // Toggle visibility
+            if (detailsDiv.classList.contains('active')) {
+                detailsDiv.classList.remove('active');
+                return;
+            }
+            
+            // Show loading
+            detailsDiv.innerHTML = '<div class="loading">Testing feature...</div>';
+            detailsDiv.classList.add('active');
+            
+            try {
+                const response = await fetch(`/api/test/${feature}`);
+                const data = await response.json();
+                
+                allTestResults[feature] = data;
+                displayFeatureDetails(feature, data, detailsDiv);
+            } catch (error) {
+                detailsDiv.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            }
+        }
+        
+        function displayFeatureDetails(feature, data, container) {
+            let html = '';
+            
+            if (data.error) {
+                html = `<div class="error">Error: ${data.error}</div>`;
+            } else {
+                if (data.features) {
+                    html += '<ul class="feature-list">';
+                    data.features.forEach(f => {
+                        if (typeof f === 'string') {
+                            html += `<li>${f}</li>`;
+                        } else {
+                            html += `<li><strong>${f.tool}:</strong>`;
+                            html += '<ul>';
+                            f.capabilities.forEach(cap => {
+                                html += `<li>• ${cap}</li>`;
+                            });
+                            html += '</ul></li>';
+                        }
+                    });
+                    html += '</ul>';
+                }
+                
+                if (data.sample) {
+                    html += '<div class="sample-code">';
+                    html += JSON.stringify(data.sample, null, 2);
+                    html += '</div>';
+                }
+                
+                if (data.test_results) {
+                    html += '<div class="success">';
+                    html += `Test Results: ${data.test_results.input_records} records → ${data.test_results.unique_records} unique (${data.test_results.duplicates_removed} duplicates removed)`;
+                    html += '</div>';
+                }
+                
+                if (data.archives) {
+                    html += '<h4 style="margin-top: 1rem;">Available Archives:</h4>';
+                    data.archives.forEach(archive => {
+                        html += `<div class="result-item">`;
+                        html += `<div class="result-title">${archive.name} - ${archive.status}</div>`;
+                        html += `<div class="result-meta">${archive.description} (${archive.records} records)</div>`;
+                        html += `</div>`;
+                    });
+                }
+                
+                if (data.sample_citation) {
+                    html += '<h4 style="margin-top: 1rem;">Sample Citation:</h4>';
+                    html += `<div class="sample-code">${data.sample_citation}</div>`;
+                }
+                
+                if (data.sample_pairs) {
+                    html += '<h4 style="margin-top: 1rem;">Sample Comparisons:</h4>';
+                    data.sample_pairs.forEach(pair => {
+                        html += `<div class="result-item">`;
+                        html += `<div class="result-title">${pair.building}</div>`;
+                        html += `<div class="result-meta">Before: ${pair.before}<br>After: ${pair.after}</div>`;
+                        html += `</div>`;
+                    });
+                }
+            }
+            
+            container.innerHTML = html;
+        }
+        
+        async function searchArchives() {
+            const searchInput = document.getElementById('searchInput');
+            const resultsDiv = document.getElementById('searchResults');
+            const searchTerms = searchInput.value.trim();
+            
+            if (!searchTerms) {
+                resultsDiv.innerHTML = '<div class="error">Please enter search terms</div>';
+                return;
+            }
+            
+            // Get selected archives
+            const selectedArchives = [];
+            document.querySelectorAll('input[name="archive"]:checked').forEach(cb => {
+                selectedArchives.push(cb.value);
+            });
+            
+            resultsDiv.innerHTML = '<div class="loading">Searching archives...</div>';
+            
+            try {
+                const response = await fetch('/api/search', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        terms: searchTerms,
+                        archives: selectedArchives
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    let html = `<div class="success">Found ${data.count} results</div>`;
+                    
+                    if (data.results && data.results.length > 0) {
+                        data.results.forEach(result => {
+                            html += `<div class="result-item">`;
+                            html += `<div class="result-title">${result.title}</div>`;
+                            html += `<div class="result-meta">`;
+                            html += `Archive: ${result.archive} | Type: ${result.type}`;
+                            if (result.description && result.description !== 'None...') {
+                                html += `<br>${result.description}`;
+                            }
+                            if (result.url) {
+                                html += `<br><a href="${result.url}" target="_blank">View source →</a>`;
+                            }
+                            html += `</div>`;
+                            html += `</div>`;
+                        });
+                    }
+                    
+                    resultsDiv.innerHTML = html;
+                } else {
+                    resultsDiv.innerHTML = `<div class="error">Search failed: ${data.error}</div>`;
+                }
+            } catch (error) {
+                resultsDiv.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            }
+        }
+        
+        async function testAllFeatures() {
+            const features = ['field-documentation', 'backup-system', 'deduplication', 
+                            'archive-search', 'scholarly-tools', 'comparison', 'gallery'];
+            
+            for (const feature of features) {
+                await testFeature(feature);
+                // Small delay between tests
+                await new Promise(resolve => setTimeout(resolve, 500));
+            }
+            
+            // Show summary
+            const successCount = Object.values(allTestResults).filter(r => r.success).length;
+            alert(`✅ Test Complete!
+
+${successCount}/${features.length} features operational`);
+        }
+        
+        // Add enter key support for search
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('searchInput').addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    searchArchives();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

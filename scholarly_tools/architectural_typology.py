@@ -127,10 +127,12 @@ class ArchitecturalTypology:
     
     # Primary Classification
     building_type: BuildingType
-    specific_type: Optional[str] = None  # e.g., MosqueType or ChurchType
     
     # Chronology
     period: Period
+    
+    # Optional fields
+    specific_type: Optional[str] = None  # e.g., MosqueType or ChurchType
     construction_date: Optional[str] = None  # Can be precise or range
     construction_phases: List[Dict[str, str]] = field(default_factory=list)
     

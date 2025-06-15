@@ -9,7 +9,7 @@ import json
 import time
 import logging
 from datetime import datetime
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
 from urllib.parse import urljoin, quote
 import requests
 from bs4 import BeautifulSoup
@@ -32,6 +32,17 @@ class SALTResearchScraper(UniversalArchiveScraper):
         )
         self.search_base = "https://saltresearch.org/discovery/search"
         self.vid = "90GARANTI_INST:90SALT_VU1"
+    
+    def _register_extractors(self) -> Dict[str, Any]:
+        """Register SALT-specific extractors"""
+        return {}
+    
+    def _scrape_search(self, search_terms: List[str]) -> List[UniversalDataRecord]:
+        """Search SALT Research archives"""
+        records = []
+        for term in search_terms:
+            records.extend(self._search_archive(term, max_pages=5))
+        return records
         
     def scrape(self, url: str = None, search_terms: List[str] = None, max_pages: int = 5) -> List[UniversalDataRecord]:
         """Scrape SALT Research for architectural documentation"""
