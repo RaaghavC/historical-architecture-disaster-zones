@@ -15,6 +15,9 @@ from .organizer import UniversalDataOrganizer
 from .scrapers.enhanced_archnet_scraper import EnhancedArchNetScraper
 from .scrapers.enhanced_manar_scraper import EnhancedManarScraper
 from .scrapers.generic_scraper import GenericArchiveScraper
+from .scrapers.salt_scraper import SALTResearchScraper
+from .scrapers.akkasah_scraper import AkkasahScraper
+from .scrapers.nit_scraper import NITKielArchiveScraper
 
 logger = logging.getLogger(__name__)
 
@@ -34,12 +37,10 @@ class UniversalHarvester:
         self.scrapers = {
             'archnet': EnhancedArchNetScraper(),
             'manar': EnhancedManarScraper(),
+            'salt': SALTResearchScraper(),
+            'akkasah': AkkasahScraper(),
+            'nit': NITKielArchiveScraper(),
         }
-        
-        # Add more scrapers as they are implemented
-        # 'salt': SALTResearchScraper(),
-        # 'nit': NITIstanbulScraper(),
-        # 'akkasah': AkkasahScraper(),
     
     def _detect_scraper(self, url: str) -> Optional[any]:
         """Detect which scraper to use based on URL."""
@@ -51,6 +52,13 @@ class UniversalHarvester:
             'www.archnet.org': self.scrapers.get('archnet'),
             'manar-al-athar.ox.ac.uk': self.scrapers.get('manar'),
             'www.manar-al-athar.ox.ac.uk': self.scrapers.get('manar'),
+            'saltresearch.org': self.scrapers.get('salt'),
+            'www.saltresearch.org': self.scrapers.get('salt'),
+            'akkasah.org': self.scrapers.get('akkasah'),
+            'www.akkasah.org': self.scrapers.get('akkasah'),
+            'nyuad.nyu.edu': self.scrapers.get('akkasah'),  # Alternative Akkasah URL
+            'nit-istanbul.org': self.scrapers.get('nit'),
+            'www.nit-istanbul.org': self.scrapers.get('nit'),
         }
         
         for key, scraper in domain_mapping.items():

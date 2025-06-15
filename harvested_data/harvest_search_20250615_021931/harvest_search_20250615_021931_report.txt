@@ -1,0 +1,13 @@
+=== HARVEST SUMMARY REPORT ===
+
+Total Records: 1
+Harvest Date: 2025-06-15T02:19:31.383534
+
+Records by Archive:
+  - Manar al-Athar: 1
+
+Records by Data Type:
+  - image: 1
+
+Geographic Coverage:
+  - : 1
