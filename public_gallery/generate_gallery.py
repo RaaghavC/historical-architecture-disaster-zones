@@ -65,14 +65,16 @@ class PublicGalleryGenerator:
                 'image_url': row.get('Download_URL', row.get('Thumbnail_URL', '')),
                 'thumbnail_url': row.get('Thumbnail_URL', row.get('Download_URL', '')),
                 'source_url': row.get('URL', ''),
-                'keywords': row.get('Keywords', '').split(', ') if row.get('Keywords') else [],
+                'keywords': str(row.get('Keywords', '')).split(', ') if pd.notna(row.get('Keywords')) else [],
                 'latitude': row.get('Latitude'),
                 'longitude': row.get('Longitude')
             }
             
             # Clean up description
-            if item['description'] and len(item['description']) > 300:
-                item['description'] = item['description'][:297] + '...'
+            if pd.notna(item['description']) and len(str(item['description'])) > 300:
+                item['description'] = str(item['description'])[:297] + '...'
+            else:
+                item['description'] = str(item['description']) if pd.notna(item['description']) else ''
             
             gallery_items.append(item)
         

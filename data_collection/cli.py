@@ -92,12 +92,19 @@ def list_sources():
         typer.echo(f"  - {source}")
     
     typer.echo("\nAvailable scraping archives:")
-    from data_collection.universal_harvester import UniversalHarvester
-    harvester = UniversalHarvester()
-    for archive in harvester.list_archives():
-        typer.echo(f"  - {archive}")
+    typer.echo("\nPrimary Archives:")
+    typer.echo("  - archnet - ArchNet (archnet.org) - Islamic architecture")
+    typer.echo("  - manar - Manar al-Athar (manar-al-athar.ox.ac.uk) - Middle Eastern archaeology")
     
-    typer.echo("\nNote: Any URL can be scraped using the 'scrape' command")
+    typer.echo("\nOttoman/Turkish Archives:")
+    typer.echo("  - salt - SALT Research (saltresearch.org) - Ottoman architectural documentation")
+    typer.echo("  - akkasah - Akkasah (akkasah.org) - Middle Eastern photography [May be offline]")
+    typer.echo("  - nit - NIT Machiel Kiel (nit-istanbul.org) - Ottoman monument photography")
+    
+    typer.echo("\nGeneral Archives:")
+    typer.echo("  - [Any URL] - Use 'scrape' command for any website")
+    
+    typer.echo("\nNote: Some archives may require on-site access or special permissions.")
 
 
 @app.command()
