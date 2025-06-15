@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## IMPORTANT: Project Context
+
+**Please read PROJECT_VISION.md for the complete project proposal, background, and four-phase implementation plan.** This project is funded by Stanford Public Humanities and represents an urgent international effort to preserve Antakya's architectural heritage following the devastating February 2023 earthquakes.
+
 ## Project Overview
 
 Historical Architecture Disaster Zones is a digital preservation pipeline for architectural heritage, with special focus on Antakya/Antioch documentation following the February 2023 earthquakes. The system provides:
@@ -9,6 +13,12 @@ Historical Architecture Disaster Zones is a digital preservation pipeline for ar
 2. Geospatial data storage in PostGIS
 3. 3D reconstruction using photogrammetry/AI
 4. Public API and viewer with IIIF compliance
+
+The project follows a four-phase approach:
+- **Phase 1**: Emergency Data Collection and Documentation
+- **Phase 2**: Digital Archival Design and Infrastructure
+- **Phase 3**: AI-Assisted Reconstruction and 3D Model Development
+- **Phase 4**: Public Access, Education, and Outreach
 
 ## Common Development Commands
 
