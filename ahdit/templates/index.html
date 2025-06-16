@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AHDIT Control Panel</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Antakya Heritage Digital Ingest Toolkit</h1>
+        
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <article class="{{ category }}">
+                        {{ message }}
+                    </article>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        
+        <!-- Main Control Form -->
+        <section>
+            <h2>Start New Ingestion</h2>
+            <form action="{{ url_for('ingest') }}" method="POST">
+                <div class="grid">
+                    <div>
+                        <label for="monument_name">
+                            Monument Name
+                            <input type="text" id="monument_name" name="monument_name" 
+                                   placeholder="e.g., Habib-i Neccar Mosque" required>
+                        </label>
+                    </div>
+                    <div>
+                        <label for="source_name">
+                            Archive Source
+                            <select id="source_name" name="source_name" required>
+                                <option value="">Select a source...</option>
+                                {% for connector in connectors %}
+                                    <option value="{{ connector }}">{{ connector|title }}</option>
+                                {% endfor %}
+                            </select>
+                        </label>
+                    </div>
+                </div>
+                <button type="submit">Start Ingestion</button>
+            </form>
+        </section>
+        
+        <!-- Database Actions -->
+        <section>
+            <h2>Database Management</h2>
+            <a href="{{ url_for('db_init') }}" role="button" class="secondary">Initialize Database</a>
+            <small>Use this button for first-time setup or to reset the sources table.</small>
+        </section>
+        
+        <!-- Monuments Display -->
+        <section>
+            <h2>Monuments Currently in Archive</h2>
+            {% if monuments %}
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Monument Name</th>
+                            <th>Type</th>
+                            <th>Period</th>
+                            <th>Assets</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for monument in monuments %}
+                            <tr>
+                                <td>{{ monument.name_en }}</td>
+                                <td>{{ monument.monument_type or '-' }}</td>
+                                <td>{{ monument.historical_period or '-' }}</td>
+                                <td>{{ monument.assets|length }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                <p><em>No monuments have been archived yet.</em></p>
+            {% endif %}
+        </section>
+    </main>
+</body>
+</html>

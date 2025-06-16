@@ -1,0 +1,4223 @@
+{
+  "hits": [
+    {
+      "id": 139536,
+      "record_id": "IAA151597",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Panoramic photograph of the Alhambra. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "AlhambrapanoramafrommosquelessGeneralife_full.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139536",
+      "objectID": "IAA151597",
+      "_snippetResult": {
+        "caption": {
+          "value": "Panoramic photograph of the <em>Alhambra</em>. ",
+          "matchLevel": "full"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139536",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151597",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/455276d4-6db6-4958-a9c8-70a0bf53980b/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Panoramic photograph of the <em>Alhambra</em>. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>panoramafrommosquelessGeneralife_full.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139536",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139535,
+      "record_id": "IAA151596",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Panoramic view of the Alhambra. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "Alhambrapanoramafrommosquelateafternoon_reduced.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139535",
+      "objectID": "IAA151596",
+      "_snippetResult": {
+        "caption": {
+          "value": "Panoramic view of the <em>Alhambra</em>. ",
+          "matchLevel": "full"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139535",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151596",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ac5f27c4-4411-42ae-9340-7eeeb2c1af28/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Panoramic view of the <em>Alhambra</em>. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>panoramafrommosquelateafternoon_reduced.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139535",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139534,
+      "record_id": "IAA151595",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of the Alhambra from a mirador. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "AlhambrafromGeneralife_5_fromMirador.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139534",
+      "objectID": "IAA151595",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of the <em>Alhambra</em> from a mirador. ",
+          "matchLevel": "full"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139534",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151595",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/d3175c0e-ac18-4cd7-b8ad-e1f04900a3cd/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of the <em>Alhambra</em> from a mirador. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>fromGeneralife_5_fromMirador.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139534",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139533,
+      "record_id": "IAA151594",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of Nasrid Palaces. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "AlhambrafromGeneralife_4.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139533",
+      "objectID": "IAA151594",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139533",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151594",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/475db8fc-a5b2-4bba-8939-90a2e8b9a31d/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>fromGeneralife_4.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139533",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139532,
+      "record_id": "IAA151593",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of Nasrid Palaces. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "AlhambrafromGeneralife_3_2.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139532",
+      "objectID": "IAA151593",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139532",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151593",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/1c2ace01-3c46-4778-b0df-bc8e3eb4115c/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>fromGeneralife_3_2.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139532",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139531,
+      "record_id": "IAA151592",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of Nasrid Palaces. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "AlhambrafromGeneralife_3.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139531",
+      "objectID": "IAA151592",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139531",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151592",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/858f4d19-21c1-4b52-9ec9-bc84efab408a/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>fromGeneralife_3.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139531",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139530,
+      "record_id": "IAA151591",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of Nasrid Palaces. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "AlhambrafromGeneralife_2.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139530",
+      "objectID": "IAA151591",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139530",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151591",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/b98dfc8b-09aa-434b-b354-810b24abac3c/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>fromGeneralife_2.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139530",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139529,
+      "record_id": "IAA151590",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of Nasrid Palaces. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "AlhambrafromGeneralife_1.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139529",
+      "objectID": "IAA151590",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139529",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151590",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/a02f8653-6e68-4d08-a7b8-c9f2fcdb4ab7/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of Nasrid Palaces. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>fromGeneralife_1.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139529",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139528,
+      "record_id": "IAA151589",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of tower from below. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "AlhambrafrombelowfromPlazaNuevaNW.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139528",
+      "objectID": "IAA151589",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of tower from below. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139528",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151589",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/f3154483-bda1-4364-bf83-4809e3a76201/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of tower from below. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>frombelowfromPlazaNuevaNW.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139528",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139527,
+      "record_id": "IAA151588",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Panoramic view of the Alhambra at night. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "Alhambraatnightcomposite_sm.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139527",
+      "objectID": "IAA151588",
+      "_snippetResult": {
+        "caption": {
+          "value": "Panoramic view of the <em>Alhambra</em> at night. ",
+          "matchLevel": "full"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139527",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151588",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/3e5b9032-3725-4316-80e2-2789b1f7a663/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Panoramic view of the <em>Alhambra</em> at night. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>atnightcomposite_sm.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139527",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139526,
+      "record_id": "IAA151587",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Panoramic view of the Alhambra from the San Nicolas mirador. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "Alhambra_viewfromSNicholasmirador.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139526",
+      "objectID": "IAA151587",
+      "_snippetResult": {
+        "caption": {
+          "value": "Panoramic view of the <em>Alhambra</em> from the San Nicolas mirador. ",
+          "matchLevel": "full"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139526",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151587",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2c398782-2447-4aa2-b3fc-bda76b3de652/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Panoramic view of the <em>Alhambra</em> from the San Nicolas mirador. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>_viewfromSNicholasmirador.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139526",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139525,
+      "record_id": "IAA151586",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Distant view of the Nasrid Palaces.  ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "Alhambra_viewfrommosque_Nasridpalace.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139525",
+      "objectID": "IAA151586",
+      "_snippetResult": {
+        "caption": {
+          "value": "Distant view of the Nasrid Palaces.  ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139525",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151586",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/541d7164-6b97-47bc-b28c-f1b73492e6d6/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Distant view of the Nasrid Palaces.  ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>_viewfrommosque_Nasridpalace.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139525",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139523,
+      "record_id": "IAA151584",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Distant view of the Nasrid Palaces from the San Nicolas mirador. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "Alhambra_Nasridpalace_viewfromSNicholasmirador_1.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139523",
+      "objectID": "IAA151584",
+      "_snippetResult": {
+        "caption": {
+          "value": "Distant view of the Nasrid Palaces from the San Nicolas mirador. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139523",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151584",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/bc5df3bd-a130-4a2b-8b6c-479fdef65e98/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Distant view of the Nasrid Palaces from the San Nicolas mirador. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>_Nasridpalace_viewfromSNicholasmirador_1.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139523",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139522,
+      "record_id": "IAA151583",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Distant view from the Casa del Chapiz. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "Alhambra_fromN_fromCasadelChapiz_2.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139522",
+      "objectID": "IAA151583",
+      "_snippetResult": {
+        "caption": {
+          "value": "Distant view from the Casa del Chapiz. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139522",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151583",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/df3981d0-4a72-45f7-903b-bc91014ca515/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Distant view from the Casa del Chapiz. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>_fromN_fromCasadelChapiz_2.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139522",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139521,
+      "record_id": "IAA151582",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Distant view from the Casa del Chapiz. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "Alhambra_fromN_fromCasadelChapiz_1.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139521",
+      "objectID": "IAA151582",
+      "_snippetResult": {
+        "caption": {
+          "value": "Distant view from the Casa del Chapiz. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139521",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151582",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/6ab3e2bb-e8a4-4b33-8623-cc8c9041f584/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Distant view from the Casa del Chapiz. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>_fromN_fromCasadelChapiz_1.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139521",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 139520,
+      "record_id": "IAA151581",
+      "name": "Alhambra. General view. ",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of the Nasrid Palaces from the North. ",
+      "hcp_item": false,
+      "year": 2015,
+      "year_description": "October,2015",
+      "source_id": "Alhambra_fromN_2.jpg",
+      "contributor": "Daniel C. Waugh",
+      "_geoloc": [
+        {
+          "lat": 37.176971,
+          "lng": -3.589869
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Daniel C. Waugh"
+      ],
+      "copyright": "Daniel C. Waugh",
+      "collections": [
+        "Granada: Alhambra (Waugh Collection)"
+      ],
+      "country": "Spain",
+      "description": null,
+      "display_name": "Alhambra",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Alhambra"
+      ],
+      "source": "Daniel C. Waugh, via Archnet.org",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2547?media_content_id=139520",
+      "objectID": "IAA151581",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of the Nasrid Palaces from the North. ",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "139520",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA151581",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>. General view. ",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/7072666d-6002-42d2-9d26-6ae91e09de64/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of the Nasrid Palaces from the North. ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "October,2015",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "<em>Alhambra</em>_fromN_2.jpg",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "contributor": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.176971",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589869",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Daniel C. Waugh",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Daniel C. Waugh",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Granada: <em>Alhambra</em> (Waugh Collection)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "<em>Alhambra</em>",
+            "matchLevel": "full",
+            "fullyHighlighted": true,
+            "matchedWords": [
+              "alhambra"
+            ]
+          }
+        ],
+        "source": {
+          "value": "Daniel C. Waugh, via Archnet.org",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2547?media_content_id=139520",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 135123,
+      "record_id": "IAA147181",
+      "name": "Alhambra",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View toward upper room known as El Peinador de la Reina (The Queen's Dressing Room).",
+      "hcp_item": false,
+      "year": 1900,
+      "year_description": "early 20th century",
+      "source_id": "",
+      "contributor": "",
+      "_geoloc": [
+        {
+          "lat": 37.17763631503119,
+          "lng": -3.589216488685679
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        " Granada"
+      ],
+      "copyright": null,
+      "collections": [],
+      "country": "Spain",
+      "description": "Granada: (Alhambra)El Peinador de la Reina",
+      "display_name": "Peinador de la Reina",
+      "keywords": [],
+      "languages": [],
+      "materials": [
+        "postcard"
+      ],
+      "primary_image": null,
+      "sites": [
+        "Peinador de la Reina"
+      ],
+      "source": null,
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/19742?media_content_id=135123",
+      "objectID": "IAA147181",
+      "_snippetResult": {
+        "caption": {
+          "value": "View toward upper room known as El Peinador de la Reina (The Queen's Dressing Room).",
+          "matchLevel": "none"
+        },
+        "description": {
+          "value": "Granada: (<em>Alhambra</em>)El Peinador de la Reina",
+          "matchLevel": "full"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "135123",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA147181",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/307744ca-cab0-4eb5-a610-c74846aed11a/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View toward upper room known as El Peinador de la Reina (The Queen's Dressing Room).",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "1900",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "early 20th century",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "contributor": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.17763631503119",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589216488685679",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": " Granada",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "country": {
+          "value": "Spain",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "Granada: (<em>Alhambra</em>)El Peinador de la Reina",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "display_name": {
+          "value": "Peinador de la Reina",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "materials": [
+          {
+            "value": "postcard",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sites": [
+          {
+            "value": "Peinador de la Reina",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/19742?media_content_id=135123",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 124716,
+      "record_id": "IAA136899",
+      "name": "Alhambra",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View over the pool. Patio de los Arrayanes",
+      "hcp_item": false,
+      "year": 1871,
+      "year_description": "ca. 1875",
+      "source_id": "W500574_1",
+      "contributor": "UNC, ArchNet",
+      "_geoloc": [
+        {
+          "lat": 37.177537,
+          "lng": -3.58967
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Juan Laurent"
+      ],
+      "copyright": "Reproduced with permission of the Fine Arts Library of the Harvard College Library",
+      "collections": [],
+      "country": null,
+      "description": "Granada.  Vista general del pation de los arrayanes y de la torre de Comares (izquierda). (Alhambra)",
+      "display_name": "Palacio de Comares",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Palacio de Comares"
+      ],
+      "source": "Fine Arts Library, Harvard College Library",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2549?media_content_id=124716",
+      "objectID": "IAA136899",
+      "_snippetResult": {
+        "caption": {
+          "value": "View over the pool. Patio de los Arrayanes",
+          "matchLevel": "none"
+        },
+        "description": {
+          "value": "Granada.  Vista general del pation de los arrayanes y de la torre de Comares (izquierda). (<em>Alhambra</em>)",
+          "matchLevel": "full"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "124716",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA136899",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/ab0e17b0-6ac6-47e4-8e02-40104b3dde2c/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View over the pool. Patio de los Arrayanes",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "1871",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "ca. 1875",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "W500574_1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "contributor": {
+          "value": "UNC, ArchNet",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.177537",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.58967",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Juan Laurent",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Reproduced with permission of the Fine Arts Library of the Harvard College Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "Granada.  Vista general del pation de los arrayanes y de la torre de Comares (izquierda). (<em>Alhambra</em>)",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "display_name": {
+          "value": "Palacio de Comares",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "sites": [
+          {
+            "value": "Palacio de Comares",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "source": {
+          "value": "Fine Arts Library, Harvard College Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2549?media_content_id=124716",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 124711,
+      "record_id": "IAA136894",
+      "name": "Alhambra",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "Court of the Lions, Facade of the Hall of the Two Sisters; Original language: Patio de los Leones, fachada de las Dos Hermanas",
+      "hcp_item": false,
+      "year": 1871,
+      "year_description": "ca. 1875",
+      "source_id": "U1010728",
+      "contributor": "UNC, ArchNet",
+      "_geoloc": [
+        {
+          "lat": 37.17708452057492,
+          "lng": -3.589274460043004
+        },
+        {
+          "lat": 37.177235,
+          "lng": -3.589696
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Juan Laurent"
+      ],
+      "copyright": "Reproduced with permission of the Fine Arts Library of the Harvard College Library",
+      "collections": [],
+      "country": null,
+      "description": null,
+      "display_name": "Palacio de los Leones, Alhambra (MEGT)",
+      "keywords": [],
+      "languages": [],
+      "materials": [],
+      "primary_image": null,
+      "sites": [
+        "Palacio de los Leones, Alhambra (MEGT)",
+        "Palacio de los Leones"
+      ],
+      "source": "Fine Arts Library, Harvard College Library",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/20794?media_content_id=124711",
+      "objectID": "IAA136894",
+      "_snippetResult": {
+        "caption": {
+          "value": "Court of the Lions, Facade of the Hall of the Two Sisters; Original language: Patio de los Leones, fachada de las Dos Hermanas",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "124711",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA136894",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/2859b696-655b-475e-ae53-3751e4606629/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "Court of the Lions, Facade of the Hall of the Two Sisters; Original language: Patio de los Leones, fachada de las Dos Hermanas",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "1871",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "ca. 1875",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "U1010728",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "contributor": {
+          "value": "UNC, ArchNet",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.17708452057492",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589274460043004",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          },
+          {
+            "lat": {
+              "value": "37.177235",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589696",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Juan Laurent",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "Reproduced with permission of the Fine Arts Library of the Harvard College Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "Palacio de los Leones, <em>Alhambra</em> (MEGT)",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "sites": [
+          {
+            "value": "Palacio de los Leones, <em>Alhambra</em> (MEGT)",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "alhambra"
+            ]
+          },
+          {
+            "value": "Palacio de los Leones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "source": {
+          "value": "Fine Arts Library, Harvard College Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/20794?media_content_id=124711",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "id": 94882,
+      "record_id": "IAA107772",
+      "name": "Alhambra",
+      "content_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/content",
+      "content_download_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/download",
+      "content_iiif_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/iiif",
+      "content_preview_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/preview",
+      "content_thumbnail_url": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/thumbnail",
+      "external_id": null,
+      "external_source": null,
+      "award_winner": false,
+      "caption": "View of the Court of the Lions",
+      "hcp_item": false,
+      "year": 1920,
+      "year_description": "ca. 1910-1930",
+      "source_id": "Box 15-95",
+      "contributor": "TALIM",
+      "_geoloc": [
+        {
+          "lat": 37.177235,
+          "lng": -3.589696
+        }
+      ],
+      "abstract": null,
+      "authorities": [
+        "Paul Servant"
+      ],
+      "copyright": "TALIM",
+      "collections": [
+        "Box 15 - International Tangier"
+      ],
+      "country": null,
+      "description": "",
+      "display_name": "Palacio de los Leones",
+      "keywords": [
+        "black and white photography",
+        "horseshoe arches",
+        "windows"
+      ],
+      "languages": [],
+      "materials": [
+        "black-and-white negative",
+        "glass"
+      ],
+      "primary_image": null,
+      "sites": [
+        "Palacio de los Leones"
+      ],
+      "source": "Tangier American Legation Institute for Moroccan Studies (TALIM)",
+      "style_periods": [],
+      "type": "Image",
+      "type_sortable": 6,
+      "url": "/sites/2548?media_content_id=94882",
+      "objectID": "IAA107772",
+      "_snippetResult": {
+        "caption": {
+          "value": "View of the Court of the Lions",
+          "matchLevel": "none"
+        },
+        "description": {
+          "value": "",
+          "matchLevel": "none"
+        }
+      },
+      "_highlightResult": {
+        "id": {
+          "value": "94882",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "record_id": {
+          "value": "IAA107772",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "<em>Alhambra</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": true,
+          "matchedWords": [
+            "alhambra"
+          ]
+        },
+        "content_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/content",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_download_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/download",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_iiif_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/iiif",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_preview_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/preview",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "content_thumbnail_url": {
+          "value": "https://archnet-3-prod-iiif-cloud-c0fe51f0b9ac.herokuapp.com/public/resources/17ceabfb-79f9-486b-b281-73f7428ea1a7/thumbnail",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "caption": {
+          "value": "View of the Court of the Lions",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year": {
+          "value": "1920",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "year_description": {
+          "value": "ca. 1910-1930",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "source_id": {
+          "value": "Box 15-95",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "contributor": {
+          "value": "TALIM",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "_geoloc": [
+          {
+            "lat": {
+              "value": "37.177235",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "lng": {
+              "value": "-3.589696",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "authorities": [
+          {
+            "value": "Paul Servant",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "copyright": {
+          "value": "TALIM",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "collections": [
+          {
+            "value": "Box 15 - International Tangier",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "description": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "display_name": {
+          "value": "Palacio de los Leones",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "keywords": [
+          {
+            "value": "black and white photography",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "horseshoe arches",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "windows",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "materials": [
+          {
+            "value": "black-and-white negative",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "glass",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sites": [
+          {
+            "value": "Palacio de los Leones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "source": {
+          "value": "Tangier American Legation Institute for Moroccan Studies (TALIM)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type": {
+          "value": "Image",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "type_sortable": {
+          "value": "6",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "/sites/2548?media_content_id=94882",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 1159,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "query": "Alhambra",
+  "params": "query=Alhambra&hitsPerPage=20&page=0&attributesToRetrieve=%5B%22*%22%5D&attributesToHighlight=%5B%22*%22%5D",
+  "renderingContent": {
+    "facetOrdering": {
+      "facets": {
+        "order": [
+          "type"
+        ]
+      },
+      "values": {
+        "type": {
+          "order": [
+            "Site",
+            "Authority",
+            "Collection",
+            "Publication",
+            "Video",
+            "Image"
+          ],
+          "sortRemainingBy": "count"
+        }
+      }
+    }
+  },
+  "processingTimeMS": 9,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 85
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 1,
+        "total": 1
+      }
+    },
+    "fetch": {
+      "query": 6,
+      "total": 7
+    },
+    "getIdx": {
+      "load": {
+        "total": 1
+      },
+      "total": 1
+    },
+    "total": 9
+  },
+  "serverTimeMS": 20
+}
